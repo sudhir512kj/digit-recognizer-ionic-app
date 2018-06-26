@@ -6,6 +6,7 @@
 *.log
 *.tmp
 *.tmp.*
+DigitRecognizer.apk
 log.txt
 *.sublime-project
 *.sublime-workspace
