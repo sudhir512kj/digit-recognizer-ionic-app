@@ -1,0 +1,8 @@
+{
+  "name": "DigitRecognizer",
+  "app_id": "d7b9190f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
